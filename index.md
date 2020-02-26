@@ -6,12 +6,16 @@ layout: home
 search: exclude
 ---
 
-This site is built with [fastpages](https://github.com/fastai/fastpages), An easy to use blogging platform with extra features for Jupyter Notebooks.
+# Bio
 
-![](images/diagram.png "https://github.com/fastai/fastpages")
+![](images/jj.png)
 
-[fastpages](https://github.com/fastai/fastpages) automates the process of creating blog posts via GitHub Actions, so you don't have to fuss with conversion scripts.  A full list of features can be found on [GitHub](https://github.com/fastai/fastpages).  
+Soy un economista apasionado por el análisis de datos, la estadística y la visualización. Trabajo en la Unidad de Ciencia de Datos del [Laboratorio Nacional de Políticas Públicas](https://www.lnpp.mx/) del [CIDE](http://cide.edu/) donde hacemos análisis de datos para temas de políticas públicas. A veces doy [cursos de Python](https://www.lnpp.mx/evento/escuela-de-metodos-2020/). A veces participo en datatones. Aquí pueden conocer algo de los [proyectos personales](https://www.jjsantoso.com/proyectos) en los que me gusta trabajar.
 
-You can edit the `index.md` file to change this content.
+Soy de Cartagena  (Colombia) y vivo en la Ciudad de México. Me gusta el montañismo y conocer la riqueza natural y cultural de México.
+
+Me encuentran en Twitter como [@jjsantoso](https://twitter.com/jjsantoso) y aquí está mi perfil en [LinkedIn](https://www.linkedin.com/in/jsantosochoa/). Pueden consultar [aquí mi CV](https://www.jjsantoso.com/cv) o también revisar mi [cuenta de GitHub](https://github.com/jjsantos01).
+
+
 
 # Posts
