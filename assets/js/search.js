@@ -7,8 +7,8 @@ var documents = [{
     }, {
     "id": 1,
     "url": "http://blog.jjsantoso.com/about/",
-    "title": "About Me",
-    "body": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. This website is powered by fastpages 1.       a blogging platform that natively supports Jupyter notebooks in addition to other formats.  &#8617;    "
+    "title": "Bio",
+    "body": " Soy un economista apasionado por el análisis de datos, la estadística y la visualización. Trabajo en la Unidad de Ciencia de Datos del Laboratorio Nacional de Políticas Públicas del CIDE donde hacemos análisis de datos para temas de políticas públicas. A veces doy cursos de Python. A veces participo en datatones. Aquí pueden conocer algo de los proyectos personales en los que me gusta trabajar. Soy de Cartagena (Colombia) y vivo en la Ciudad de México. Me gusta el montañismo y conocer la riqueza natural y cultural de México. Me encuentran en Twitter como @jjsantoso y aquí está mi perfil en LinkedIn. Pueden consultar aquí mi CV o también revisar mi cuenta de GitHub. "
     }, {
     "id": 2,
     "url": "http://blog.jjsantoso.com/categories/",
