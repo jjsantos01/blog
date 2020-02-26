@@ -4,7 +4,7 @@ title: Bio
 permalink: /about/
 ---
 
-![](images/jj.png)
+![](images/jj.jpg)
 
 Soy un economista apasionado por el análisis de datos, la estadística y la visualización. Trabajo en la Unidad de Ciencia de Datos del [Laboratorio Nacional de Políticas Públicas](https://www.lnpp.mx/) del [CIDE](http://cide.edu/) donde hacemos análisis de datos para temas de políticas públicas. A veces doy [cursos de Python](https://www.lnpp.mx/evento/escuela-de-metodos-2020/). A veces participo en datatones. Aquí pueden conocer algo de los [proyectos personales](https://www.jjsantoso.com/proyectos) en los que me gusta trabajar.
 
